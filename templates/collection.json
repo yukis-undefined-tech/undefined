@@ -32,10 +32,6 @@
     "featured_product_A8PVP4": {
       "type": "featured-product",
       "blocks": {
-        "vendor_PY3gtW": {
-          "type": "vendor",
-          "settings": {}
-        },
         "title_MGV8pe": {
           "type": "title",
           "settings": {
@@ -102,7 +98,6 @@
         }
       },
       "block_order": [
-        "vendor_PY3gtW",
         "title_MGV8pe",
         "badges_PNaRLN",
         "price_LqxCaf",

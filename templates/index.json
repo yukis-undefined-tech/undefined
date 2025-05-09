@@ -158,21 +158,6 @@
         "heading_gradient": ""
       }
     },
-    "scrolling-text": {
-      "type": "scrolling-text",
-      "settings": {
-        "full_width": true,
-        "text": "FREE SHIPPING ON ORDERS OVER $99",
-        "text_size": "large",
-        "text_style": "fill",
-        "scrolling_mode": "auto",
-        "scrolling_speed": 5,
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "text_gradient": ""
-      }
-    },
     "collection-list": {
       "type": "collection-list",
       "blocks": {
@@ -717,7 +702,6 @@
   "order": [
     "slideshow",
     "image-link-blocks",
-    "scrolling-text",
     "collection-list",
     "featured-collection",
     "impact-text",

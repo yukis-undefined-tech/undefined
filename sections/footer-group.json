@@ -107,9 +107,10 @@
         },
         "text": {
           "type": "text",
+          "disabled": true,
           "settings": {
-            "title": "About",
-            "content": "<p>Use this text area to tell your customers about your brand and vision. You can change it in the theme editor.</p>",
+            "title": "About Us",
+            "content": "<p><strong>Undefined-Tech — Cool Tech, Delivered Differently.</strong></p><p>At Undefined-Tech, we’re on a mission to bring you the most innovative, unique, and downright cool products from around the globe — without the hassle. As a future-focused dropshipping brand, we specialize in sourcing trending gadgets, smart lifestyle tools, and must-have tech accessories that blend functionality with fun.</p><p>Our name, <em>Undefined-Tech</em>, reflects our belief that innovation should never be limited. We constantly search for the next big thing — from viral products that wow your friends to smart gear that makes everyday life smoother.</p><p>We partner with trusted suppliers and streamline the logistics so you can enjoy the coolest tech without waiting weeks or dealing with complicated imports. Fast shipping, quality items, and a no-BS customer experience — that's how we roll.</p><p>Whether you're a gadget geek, a trend hunter, or just someone who loves discovering awesome stuff — you’re in the right place.</p><p><strong>Stay curious. Shop undefined.</strong></p>",
             "enable_follow_on_shop": true
           }
         }

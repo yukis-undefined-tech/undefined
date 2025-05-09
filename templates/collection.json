@@ -1,18 +1,157 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "banner": {
       "type": "collection-banner",
       "settings": {
+        "full_width": false,
+        "allow_transparent_header": false,
+        "enable_parallax": true,
+        "show_collection_title": true,
+        "show_collection_description": true,
+        "show_collection_image": true,
+        "collection_title_size": "h5",
+        "image_size": "auto",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "featured_product": "",
+        "featured_product_heading": "Featured product",
+        "text_color": "#e8edf2",
+        "overlay_color": "#000000",
+        "overlay_opacity": 28
+      }
+    },
+    "featured_product_A8PVP4": {
+      "type": "featured-product",
+      "blocks": {
+        "vendor_PY3gtW": {
+          "type": "vendor",
+          "settings": {}
+        },
+        "title_MGV8pe": {
+          "type": "title",
+          "settings": {
+            "heading_tag": "h2"
+          }
+        },
+        "badges_PNaRLN": {
+          "type": "badges",
+          "settings": {}
+        },
+        "price_LqxCaf": {
+          "type": "price",
+          "settings": {
+            "show_taxes_notice": false
+          }
+        },
+        "rating_e8DQni": {
+          "type": "rating",
+          "settings": {
+            "show_empty": false
+          }
+        },
+        "separator_HqQbWc": {
+          "type": "separator",
+          "settings": {}
+        },
+        "description_HRz9dt": {
+          "type": "description",
+          "settings": {
+            "icon": "none",
+            "icon_width": 20,
+            "collapse_content": false
+          }
+        },
+        "variant_picker_KgzVnn": {
+          "type": "variant_picker",
+          "settings": {
+            "hide_sold_out_variants": false,
+            "stack_blocks": true,
+            "selector_style": "block",
+            "swatch_selector_style": "swatch",
+            "variant_image_options": "",
+            "size_chart_page": ""
+          }
+        },
+        "quantity_selector_pJhy3J": {
+          "type": "quantity_selector",
+          "settings": {}
+        },
+        "buy_buttons_npNK9p": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_payment_button": true,
+            "show_gift_card_recipient": true,
+            "atc_button_background": "#001249",
+            "atc_button_text_color": "#e8edf2",
+            "payment_button_background": "",
+            "payment_button_text_color": ""
+          }
+        },
+        "pickup_availability_rtUBxt": {
+          "type": "pickup_availability",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "vendor_PY3gtW",
+        "title_MGV8pe",
+        "badges_PNaRLN",
+        "price_LqxCaf",
+        "rating_e8DQni",
+        "separator_HqQbWc",
+        "description_HRz9dt",
+        "variant_picker_KgzVnn",
+        "quantity_selector_pJhy3J",
+        "buy_buttons_npNK9p",
+        "pickup_availability_rtUBxt"
+      ],
+      "name": "Featured product",
+      "settings": {
+        "full_width": true,
+        "product": "",
+        "desktop_media_width": 55,
+        "desktop_media_layout": "carousel_thumbnails_left",
+        "mobile_media_size": "expanded",
+        "mobile_carousel_control": "floating_dots",
+        "enable_video_autoplay": true,
+        "enable_video_looping": false,
+        "enable_image_zoom": true,
+        "max_image_zoom_level": 3,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "input_background": "rgba(0,0,0,0)",
+        "input_text_color": ""
       }
     },
     "main": {
       "type": "main-collection",
+      "disabled": true,
       "settings": {
+        "products_per_page": 8,
+        "products_per_row_mobile": "1",
+        "products_per_row_desktop": 4,
+        "filter_layout": "sidebar",
+        "show_sort_by": true,
+        "show_filters": true,
+        "show_filter_group_name": false,
+        "show_filter_values_count": true,
+        "open_first_filter_group": false
       }
     }
   },
   "order": [
     "banner",
+    "featured_product_A8PVP4",
     "main"
   ]
 }

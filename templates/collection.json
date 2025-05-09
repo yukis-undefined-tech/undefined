@@ -34,9 +34,8 @@
       "blocks": {
         "title_MGV8pe": {
           "type": "title",
-          "settings": {
-            "heading_tag": "h2"
-          }
+          "repeater": "{{ section.settings.product.metafields.shopify[\"color-pattern\"].value }}",
+          "settings": {}
         },
         "badges_PNaRLN": {
           "type": "badges",

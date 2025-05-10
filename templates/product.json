@@ -79,6 +79,10 @@
             "payment_button_background": "",
             "payment_button_text_color": ""
           }
+        },
+        "judge_me_reviews_preview_badge_thmd3b": {
+          "type": "shopify://apps/judge-me-reviews/blocks/preview_badge/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {}
         }
       },
       "block_order": [
@@ -92,7 +96,8 @@
         "description",
         "variant_picker",
         "quantity_selector",
-        "buy_buttons"
+        "buy_buttons",
+        "judge_me_reviews_preview_badge_thmd3b"
       ],
       "settings": {
         "full_width": true,

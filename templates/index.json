@@ -231,7 +231,14 @@
       "type": "featured-collection",
       "settings": {
         "collection": "",
-        "products": [],
+        "products": [
+          "cheerdots-2-detachable-air-mouse-wireless-touchpad-all-in-one-pocket-ai-recording-enabled-mouse-wireless-controll",
+          "distance-measuring-instrument-electronic-measuring-ruler-tape-measure-high-definition-digital-lcd-high-precision-electronic-measuring-ruler-tool",
+          "wifi-app-control-portable-vlog-camera-underwater-30m-small-thumb-action-camera-1080p-wifi-pocket-mini-body-camera",
+          "mobile-phone-wireless-bluetooth-compact-mini-bone-conduction-speaker-hummingbird-speaker",
+          "translation-pen-boligrafo-traductor-de-idioma-memory-included-offline-photo-translation-service-electronic-smart-touchscreen-scanning-translation-pen-black-abs",
+          "3-in-1-charging-station-for-apple-devices-magsafe-wireless-charger-pad-for-multiple-devices-fits-iphone-15-pro"
+        ],
         "full_width": true,
         "stack_products": false,
         "show_progress_bar": false,

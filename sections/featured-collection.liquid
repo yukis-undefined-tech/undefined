@@ -224,3 +224,31 @@
   ]
 }
 {% endschema %}
+
+{% if product.description != blank %}
+  <div class="read-more-container">
+    {% assign description_words = product.description | strip_html | split: ' ' %}
+    {% assign word_count: 15 = description_words | size %}
+    {% assign truncated_description = '' %}
+    {% for word in description_words limit: 15 %}
+      {% assign truncated_description = truncated_description | append: word | append: ' ' %}
+    {% endfor %}
+    
+    <div class="product-description">
+      {{ truncated_description | strip }}
+      <span class="dots">...</span>
+      <span class="more-text">{{ product.description | remove_first: truncated_description }}</span>
+    </div>
+    
+    {% assign show_button = false %}
+    {% if word_count >gt %}
+      {% assign show_button = true %}
+    {% endif %}
+    
+    {% if show_button %}
+      <button class="read-more-btn">Read more</button>
+    {% endif %}
+  </div>
+{% endif %}
+
+

@@ -5235,30 +5235,3 @@ export {
   throttle,
   waitForEvent
 };
-<script>
-  // Read More functionality for product descriptions
-document.addEventListener('DOMContentLoaded', function() {
-  // Find all read more containers
-  const readMoreContainers = document.querySelectorAll('.read-more-container');
-  
-  readMoreContainers.forEach(function(container) {
-    const dots = container.querySelector('.dots');
-    const moreText = container.querySelector('.more-text');
-    const button = container.querySelector('.read-more-btn');
-    
-    if (button) {
-      button.addEventListener('click', function() {
-        if (dots.style.display === "none" || dots.style.display === "") {
-          dots.style.display = "inline";
-          button.innerHTML = "Read more";
-          moreText.style.display = "none";
-        } else {
-          dots.style.display = "none";
-          button.innerHTML = "Read less";
-          moreText.style.display = "inline";
-        }
-      });
-    }
-  });
-});
-</script>

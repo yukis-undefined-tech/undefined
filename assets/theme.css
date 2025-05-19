@@ -10115,23 +10115,3 @@ shopify-accelerated-checkout, shopify-accelerated-checkout-cart {
   display: -webkit-box;
   overflow: hidden;
 }
-.read-more-container {
-  margin-bottom: 15px;
-}
-
-.read-more-btn {
-  background-color: transparent;
-  border: none;
-  color: #007bff;
-  padding: 0;
-  text-align: left;
-  display: inline-block;
-  font-size: 0.9em;
-  cursor: pointer;
-  margin-top: 5px;
-  text-decoration: underline;
-}
-
-.more-text {
-  display: none;
-}

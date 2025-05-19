@@ -122,28 +122,6 @@
         "input_text_color": ""
       }
     },
-    "related-products": {
-      "type": "related-products",
-      "settings": {
-        "recommendations_count": 6,
-        "products": [],
-        "full_width": false,
-        "stack_products": false,
-        "show_progress_bar": true,
-        "products_per_row_mobile": "1",
-        "products_per_row_desktop": 5,
-        "subheading": "",
-        "title": "You may also like",
-        "content": "",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": "",
-        "product_card_background": "",
-        "product_card_text_color": ""
-      }
-    },
     "1730104165e01a34cb": {
       "type": "apps",
       "settings": {
@@ -174,12 +152,35 @@
         "background_gradient": "",
         "text_color": ""
       }
+    },
+    "related_products_AG48KK": {
+      "type": "related-products",
+      "name": "Related products",
+      "settings": {
+        "recommendations_count": 6,
+        "products": [],
+        "full_width": true,
+        "stack_products": false,
+        "show_progress_bar": false,
+        "products_per_row_mobile": "1",
+        "products_per_row_desktop": 3,
+        "subheading": "",
+        "title": "You may also like",
+        "content": "",
+        "background": "#f0f0f0",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "product_card_background": "",
+        "product_card_text_color": ""
+      }
     }
   },
   "order": [
     "main",
-    "related-products",
     "1730104165e01a34cb",
-    "1746838836fb0e9319"
+    "1746838836fb0e9319",
+    "related_products_AG48KK"
   ]
 }

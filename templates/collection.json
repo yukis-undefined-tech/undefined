@@ -29,6 +29,95 @@
         "overlay_opacity": 28
       }
     },
+    "image_link_blocks_rifXWr": {
+      "type": "image-link-blocks",
+      "blocks": {
+        "item_d4qQJj": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/S8cdeac888bcf46d19e5a49af773cb0783.webp",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_Rtzg4g": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/b14cb7081020012396dcd3d3ec19ecc2.jpg",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_8RyPtt": {
+          "type": "item",
+          "settings": {
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_eGR3g4": {
+          "type": "item",
+          "settings": {
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_W6w9AW": {
+          "type": "item",
+          "settings": {
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "item_d4qQJj",
+        "item_Rtzg4g",
+        "item_8RyPtt",
+        "item_eGR3g4",
+        "item_W6w9AW"
+      ],
+      "name": "Image link blocks",
+      "settings": {
+        "full_width": false,
+        "block_size": "medium",
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "link_url": "",
+        "link_text": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
+      }
+    },
     "main": {
       "type": "main-collection",
       "disabled": true,
@@ -47,6 +136,7 @@
   },
   "order": [
     "banner",
+    "image_link_blocks_rifXWr",
     "main"
   ]
 }

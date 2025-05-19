@@ -72,90 +72,38 @@
         "background_gradient": "linear-gradient(60deg, rgba(60, 65, 68, 1), rgba(23, 29, 33, 1) 98%)"
       }
     },
-    "image-link-blocks": {
-      "type": "image-link-blocks",
-      "blocks": {
-        "1664424046b00c932c-0": {
-          "type": "item",
-          "settings": {
-            "stretch_image": true,
-            "link_text": "",
-            "link_url": "",
-            "background": "",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        },
-        "1664424046b00c932c-1": {
-          "type": "item",
-          "settings": {
-            "stretch_image": true,
-            "link_text": "",
-            "link_url": "",
-            "background": "",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        },
-        "1664424046b00c932c-2": {
-          "type": "item",
-          "settings": {
-            "stretch_image": true,
-            "link_text": "",
-            "link_url": "",
-            "background": "",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        },
-        "1664424046b00c932c-3": {
-          "type": "item",
-          "settings": {
-            "stretch_image": true,
-            "link_text": "",
-            "link_url": "",
-            "background": "",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        },
-        "e4a0ef18-1856-4ddd-83d8-871a60d7acac": {
-          "type": "item",
-          "settings": {
-            "stretch_image": true,
-            "link_text": "",
-            "link_url": "",
-            "background": "",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        }
-      },
-      "block_order": [
-        "1664424046b00c932c-0",
-        "1664424046b00c932c-1",
-        "1664424046b00c932c-2",
-        "1664424046b00c932c-3",
-        "e4a0ef18-1856-4ddd-83d8-871a60d7acac"
-      ],
+    "featured_collection_j7NLd6": {
+      "type": "featured-collection",
+      "name": "Featured collection",
       "settings": {
-        "full_width": false,
-        "block_size": "medium",
+        "collection": "",
+        "products": [
+          "cloud-rain-humidifier-raindrop-aroma-essential-oil-diffuserremote-control-night-light-desktop-fountain-water-drop-sound-for-home",
+          "distance-measuring-instrument-electronic-measuring-ruler-tape-measure-high-definition-digital-lcd-high-precision-electronic-measuring-ruler-tool",
+          "wifi-app-control-portable-vlog-camera-underwater-30m-small-thumb-action-camera-1080p-wifi-pocket-mini-body-camera",
+          "qi2-protocol-magnetic-touch-rotating-wireless-charger",
+          "rain-cloud-humidifier-water-drip-with-remote-raindrop-humidifier-rain-cloud-diffuser-mushroon-air-humidifier-with-rain-lamp",
+          "temperature-control-smart-mug-10-ounce-1-hr-battery-life-white-app-controlled-heated-coffee-mug",
+          "3-in-1-charging-station-for-apple-devices-magsafe-wireless-charger-pad-for-multiple-devices-fits-iphone-15-pro"
+        ],
+        "full_width": true,
+        "stack_products": false,
+        "show_progress_bar": true,
+        "products_count": 6,
+        "products_per_row_mobile": "2",
+        "products_per_row_desktop": 3,
         "subheading": "",
-        "title": "",
+        "title": "PRODUCTS",
         "content": "",
         "link_url": "",
-        "link_text": "",
+        "link_text": "View all",
         "background": "",
         "background_gradient": "",
         "text_color": "",
         "heading_color": "",
-        "heading_gradient": ""
+        "heading_gradient": "",
+        "product_card_background": "",
+        "product_card_text_color": ""
       }
     },
     "collection-list": {
@@ -225,38 +173,6 @@
         "text_color": "",
         "heading_color": "",
         "heading_gradient": ""
-      }
-    },
-    "featured-collection": {
-      "type": "featured-collection",
-      "settings": {
-        "collection": "",
-        "products": [
-          "cheerdots-2-detachable-air-mouse-wireless-touchpad-all-in-one-pocket-ai-recording-enabled-mouse-wireless-controll",
-          "distance-measuring-instrument-electronic-measuring-ruler-tape-measure-high-definition-digital-lcd-high-precision-electronic-measuring-ruler-tool",
-          "wifi-app-control-portable-vlog-camera-underwater-30m-small-thumb-action-camera-1080p-wifi-pocket-mini-body-camera",
-          "mobile-phone-wireless-bluetooth-compact-mini-bone-conduction-speaker-hummingbird-speaker",
-          "translation-pen-boligrafo-traductor-de-idioma-memory-included-offline-photo-translation-service-electronic-smart-touchscreen-scanning-translation-pen-black-abs",
-          "3-in-1-charging-station-for-apple-devices-magsafe-wireless-charger-pad-for-multiple-devices-fits-iphone-15-pro"
-        ],
-        "full_width": true,
-        "stack_products": false,
-        "show_progress_bar": false,
-        "products_count": 6,
-        "products_per_row_mobile": "2",
-        "products_per_row_desktop": 4,
-        "subheading": "",
-        "title": "Featured collection",
-        "content": "",
-        "link_url": "",
-        "link_text": "View all",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": "",
-        "product_card_background": "",
-        "product_card_text_color": ""
       }
     },
     "impact-text": {
@@ -610,9 +526,8 @@
   },
   "order": [
     "slideshow",
-    "image-link-blocks",
+    "featured_collection_j7NLd6",
     "collection-list",
-    "featured-collection",
     "impact-text",
     "image-with-text-overlay",
     "media-grid",

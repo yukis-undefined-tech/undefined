@@ -69,7 +69,7 @@
       ],
       "settings": {
         "enable_sticky": true,
-        "hide_on_scroll": false,
+        "hide_on_scroll": true,
         "logo": "shopify://shop_images/UDT_-_Copy-removebg-preview.png",
         "logo_max_width": 80,
         "logo_mobile_max_width": 100,
@@ -77,7 +77,7 @@
         "sidebar_menu": "main-menu",
         "secondary_menu": "",
         "menu_open_trigger": "click",
-        "opening_from": "bottom",
+        "opening_from": "left",
         "layout": "logo_left_navigation_inline",
         "show_social_media": true,
         "show_locale_selector": true,

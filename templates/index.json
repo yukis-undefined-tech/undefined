@@ -93,7 +93,7 @@
           "translation-pen-boligrafo-traductor-de-idioma-memory-included-offline-photo-translation-service-electronic-smart-touchscreen-scanning-translation-pen-black-abs"
         ],
         "full_width": true,
-        "stack_products": false,
+        "stack_products": true,
         "show_progress_bar": true,
         "products_count": 50,
         "products_per_row_mobile": "2",

@@ -118,7 +118,7 @@
         "collection-1": {
           "type": "collection",
           "settings": {
-            "collection": "",
+            "collection": "cloud-rain",
             "subheading": "",
             "title": "",
             "url": "",
@@ -132,7 +132,7 @@
         "collection-2": {
           "type": "collection",
           "settings": {
-            "collection": "",
+            "collection": "magnetic-gym-bag-collection",
             "subheading": "",
             "title": "",
             "url": "",
@@ -146,7 +146,7 @@
         "collection-3": {
           "type": "collection",
           "settings": {
-            "collection": "",
+            "collection": "ultimate-wireless-accessories",
             "subheading": "",
             "title": "",
             "url": "",
@@ -262,6 +262,7 @@
         "item-1": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/a517b3897f01ffe0e3ccdb6ad51bdb5f.jpg",
             "title": "Promote your products",
             "heading_tag": "h4",
             "link_url": "",
@@ -283,6 +284,7 @@
         "item-2": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/S4dc22a360a1247e488007e87c034bb9fC.webp",
             "title": "Promote your products",
             "heading_tag": "h4",
             "link_url": "",
@@ -304,6 +306,7 @@
         "item-3": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/67f99495b49cb3d34386eb34382d0c12.jpg",
             "title": "Promote your products",
             "heading_tag": "h4",
             "link_url": "",
@@ -325,6 +328,7 @@
         "29246d34-c6e0-4373-84f6-b15e57736a00": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/7e7a884de98ba8b77f641b833f371e3e.jpg",
             "title": "Promote your products",
             "heading_tag": "h4",
             "link_url": "",

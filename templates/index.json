@@ -95,7 +95,7 @@
         "full_width": true,
         "stack_products": true,
         "show_progress_bar": true,
-        "products_count": 50,
+        "products_count": 20,
         "products_per_row_mobile": "2",
         "products_per_row_desktop": 5,
         "subheading": "",

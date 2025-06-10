@@ -38,7 +38,7 @@
             "image": "shopify://shop_images/S8cdeac888bcf46d19e5a49af773cb0783.webp",
             "stretch_image": true,
             "link_text": "",
-            "link_url": "",
+            "link_url": "shopify://products/cloud-rain-humidifier-raindrop-aroma-essential-oil-diffuserremote-control-night-light-desktop-fountain-water-drop-sound-for-home",
             "background": "",
             "text_color": "#ffffff",
             "overlay_color": "#000000",
@@ -51,7 +51,7 @@
             "image": "shopify://shop_images/b14cb7081020012396dcd3d3ec19ecc2.jpg",
             "stretch_image": true,
             "link_text": "",
-            "link_url": "",
+            "link_url": "shopify://products/qi2-protocol-magnetic-touch-rotating-wireless-charger",
             "background": "",
             "text_color": "#ffffff",
             "overlay_color": "#000000",
@@ -61,9 +61,10 @@
         "item_8RyPtt": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/53c51e652ee7654d011efc60562b412c.jpg",
             "stretch_image": true,
             "link_text": "",
-            "link_url": "",
+            "link_url": "shopify://products/magnetic-magsafe-car-phone-holder-for-vehicles-mobile-support-for-car-cellphone-holder-in-car-for-iphone-samsung-xiaomi-android",
             "background": "",
             "text_color": "#ffffff",
             "overlay_color": "#000000",
@@ -73,9 +74,10 @@
         "item_eGR3g4": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/47f524d001232c8e65ca5f3a0c42222c.jpg",
             "stretch_image": true,
             "link_text": "",
-            "link_url": "",
+            "link_url": "shopify://products/magnetic-gym-water-bottle-bag-non-slip-magnetic-gym-sling-bag-portable-magnetic-water-bottle-carrier-holder-for-gym-accessories",
             "background": "",
             "text_color": "#ffffff",
             "overlay_color": "#000000",
@@ -85,9 +87,10 @@
         "item_W6w9AW": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/6cbfdc04cc4ce32f50e68c27e134e10e.jpg",
             "stretch_image": true,
             "link_text": "",
-            "link_url": "",
+            "link_url": "shopify://products/wifi-app-control-portable-vlog-camera-underwater-30m-small-thumb-action-camera-1080p-wifi-pocket-mini-body-camera",
             "background": "",
             "text_color": "#ffffff",
             "overlay_color": "#000000",

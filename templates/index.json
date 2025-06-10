@@ -217,46 +217,6 @@
         "button_text_color": ""
       }
     },
-    "image-with-text-overlay": {
-      "type": "image-with-text-overlay",
-      "blocks": {
-        "1664424230c4756b0e-0": {
-          "type": "subheading",
-          "settings": {
-            "text": "Subheading"
-          }
-        },
-        "1664424230c4756b0e-1": {
-          "type": "heading",
-          "settings": {
-            "text": "Image with text overlay",
-            "heading_tag": "h1"
-          }
-        },
-        "1664424230c4756b0e-2": {
-          "type": "richtext",
-          "settings": {
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "1664424230c4756b0e-0",
-        "1664424230c4756b0e-1",
-        "1664424230c4756b0e-2"
-      ],
-      "settings": {
-        "full_width": true,
-        "allow_transparent_header": false,
-        "enable_parallax": false,
-        "image_size": "auto",
-        "mobile_text_position": "place-self-center text-center",
-        "desktop_text_position": "sm:place-self-center sm:text-center",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 30
-      }
-    },
     "media-grid": {
       "type": "media-grid",
       "blocks": {
@@ -264,7 +224,7 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/a517b3897f01ffe0e3ccdb6ad51bdb5f.jpg",
-            "title": "Promote your products",
+            "title": "",
             "heading_tag": "h4",
             "link_url": "",
             "link_text": "",
@@ -286,7 +246,7 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/S4dc22a360a1247e488007e87c034bb9fC.webp",
-            "title": "Promote your products",
+            "title": "",
             "heading_tag": "h4",
             "link_url": "",
             "link_text": "",
@@ -308,7 +268,7 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/67f99495b49cb3d34386eb34382d0c12.jpg",
-            "title": "Promote your products",
+            "title": "",
             "heading_tag": "h4",
             "link_url": "",
             "link_text": "",
@@ -330,7 +290,7 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/7e7a884de98ba8b77f641b833f371e3e.jpg",
-            "title": "Promote your products",
+            "title": "",
             "heading_tag": "h4",
             "link_url": "",
             "link_text": "",
@@ -410,7 +370,6 @@
     "featured_collection_j7NLd6",
     "collection-list",
     "impact-text",
-    "image-with-text-overlay",
     "media-grid",
     "press"
   ]
